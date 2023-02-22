@@ -10,5 +10,5 @@ Student Info
 =========================
 
 * Student Name: Do Tuan Dung
-* Student ID: BI12-104
+* Student ID: BI12 - 104
 
